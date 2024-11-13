@@ -11,7 +11,7 @@
     "UiPath.Form.Activities": "[24.10.5]",
     "UiPath.FormActivityLibrary": "[2.0.7]",
     "UiPath.IntegrationService.Activities": "[1.7.0]",
-    "UiPath.IntelligentOCR.Activities": "[6.19.5]",
+    "UiPath.IntelligentOCR.Activities": "[6.22.0]",
     "UiPath.Mail.Activities": "[1.23.11]",
     "UiPath.MicrosoftOffice365.Activities": "[2.6.25]",
     "UiPath.Persistence.Activities": "[1.5.9]",

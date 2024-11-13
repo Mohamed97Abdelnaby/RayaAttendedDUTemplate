@@ -188,6 +188,28 @@
           "RuleSet": null,
           "DefaultValue": "",
           "DataSource": null
+        },
+        {
+          "FieldId": "CBE.NoCategory.E-mailDistributionList.ListCreation",
+          "FieldName": "ListCreation",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#6eb84a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "q"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": "",
+          "DataSource": null
         }
       ]
     },
